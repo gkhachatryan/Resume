@@ -18,7 +18,7 @@ Address: Artsakh 8/2, apt 52, 0005, Yerevan, Republic of Armenia
 ## Skills
 
 ## Languages
->Armenian (native), English (good), Russian (fluent)
+>Armenian (native),&nbsp;&nbsp;English (good),&nbsp;&nbsp;Russian (fluent)
 
 
 
