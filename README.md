@@ -16,10 +16,10 @@ Address: Artsakh 8/2, apt 52, 0005, Yerevan, Republic of Armenia
 >12.2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BetConstruct Internship program, Microsoft Innovation Center Armenia
 
 ## Skills
->Programming Languages: C# <br>
->Markup and Scripting: HTML/CSS<br>
->Tools and IDEs: Visual Studio 2013/2015, SmartGit, GitHub<br>
->OS: Windows 7/8
+>Programming Languages:&nbsp;&nbsp; C# <br>
+>Markup and Scripting:&nbsp;&nbsp; HTML/CSS<br>
+>Tools and IDEs:&nbsp;&nbsp; Visual Studio 2013/2015, SmartGit, GitHub<br>
+>OS:&nbsp;&nbsp; Windows 7/8
 
 
 ## Languages
