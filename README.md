@@ -25,6 +25,6 @@ Address: Artsakh 8/2, apt 52, 0005, Yerevan, Republic of Armenia
 ## Languages
 >Armenian (native),&nbsp;&nbsp;English (fair),&nbsp;&nbsp;Russian (fluent)
 
-
+[Resume in PDF](https://github.com/gkhachatryan/Resume/blob/master/CV_GayaneKhachatryan.pdf)
 
 
