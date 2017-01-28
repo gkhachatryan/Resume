@@ -1,9 +1,5 @@
 # Gayane Khachatryan
-## Personal Information
-Date of birth: 4 January 1991 <br>
-Mobile: +374 55 436801<br>
 E-mail: kh.gaiane@gmail.com<br>
-Address: Artsakh 8/2, apt 52, 0005, Yerevan, Republic of Armenia
 
 ## Education
 >**State Engineering University of Armenia** <br>
