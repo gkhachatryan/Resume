@@ -1,4 +1,4 @@
-# Gayane Khachatryan
+### Gayane Khachatryan
 E-mail: kh.gaiane@gmail.com<br>
 
 ## Education
@@ -21,6 +21,5 @@ E-mail: kh.gaiane@gmail.com<br>
 ## Languages
 >Armenian (native),&nbsp;&nbsp;English (fair),&nbsp;&nbsp;Russian (fluent)
 
-[Resume in PDF](https://github.com/gkhachatryan/Resume/blob/master/CV_GayaneKhachatryan.pdf)
 
 
