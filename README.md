@@ -4,8 +4,7 @@ E-mail: kh.gaiane@gmail.com<br>
 ## Education
 >**State Engineering University of Armenia** <br>
 2012 – 2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Master Degree in Computer Systems and Informatics (Information Security and Software Development)
-<br>
-2008 – 2012&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bachelor Degree in Computer Systems and Informatics (Information Security and Software Development) <br>
+<br>2008 – 2012&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bachelor Degree in Computer Systems and Informatics (Information Security and Software Development) <br>
 
 ## Trainings
 >12.2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BetConstruct Internship program, Microsoft Innovation Center Armenia<br>
